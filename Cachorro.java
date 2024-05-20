@@ -47,7 +47,7 @@ return a;
 }
 
 public String imprimirInformacoes (){
-return "au au"
+return "au au";
 
 }
 }
